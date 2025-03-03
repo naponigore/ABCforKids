@@ -1,5 +1,202 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "bubbly sound effects followed by an upbeat 80s sound, the lighting is very dim and soft, melancholic parody"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a980b2c2-2654-48c4-a61c-c62cb5a1012a"
+    },
+    {
+      "start_time": 13,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I was working in the lab one night, when my eyes beheld an eerie sight. For my monster from his nap began to rise, and suddenly, to my suprise,\" Ross Higgins sings with expressive vocals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ross HIggins",
+          "category": "\"I was working in the lab one night, when my eyes beheld an eerie sight. For my monster from his nap began to rise, and suddenly, to my suprise,\" Ross Higgins sings with expressive vocals."
+        }
+      ],
+      "uuid": "0f64e699-6fe0-45d5-a70f-d86dd7ea482f"
+    },
+    {
+      "start_time": 27,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"He did the mash! He did the monster mash. The monster mash! It was a graveyard smash. He did the mash! He caught on in a flash. He did the mash! He did the monster mash\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Chorus",
+          "category": "\"He did the mash! He did the monster mash. The monster mash! It was a graveyard smash. He did the mash! He caught on in a flash. He did the mash! He did the monster mash\""
+        }
+      ],
+      "uuid": "3176298d-970f-49dd-b07c-fd2b2a1a99c8"
+    },
+    {
+      "start_time": 42,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The mood of the music video is very humorous as kids are dressed up as the classic monsters and Ross Higgins impersonating a scientist. Background visuals have cartoonish monsters, skeletons, and halloween decor."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5580e3cf-2046-4dee-8bed-71fee09de275"
+    },
+    {
+      "start_time": 57,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The color scheme is pastel, giving a nostalgic feel"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5d01e3b8-957f-4f47-be74-5d2d4e298894"
+    },
+    {
+      "start_time": 71,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The Zombies were having fun. The party had just begun. The guest included the wolfman, Dracula, and his son.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "second verse",
+          "category": "\"The Zombies were having fun. The party had just begun. The guest included the wolfman, Dracula, and his son.\""
+        }
+      ],
+      "uuid": "d01e61e6-e8f6-4a49-b2ee-ce7f7a27cd4a"
+    },
+    {
+      "start_time": 85,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is a choreographed part performed by kids. There are a lot of fade-in and crossfade camera transitions"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6891e07b-a71b-485e-b717-e695a25f22c3"
+    },
+    {
+      "start_time": 115,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"What ever happened to my Transylvanian twist?\" Ross Higgins impersonated Dracula with a strong Transylvanian accent while the kid mouths the lyrics. The kids' interaction with the \"spooky \" environment makes the video humorous."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6f405990-2ff4-4471-aa27-739efe3f4ae0"
+    },
+    {
+      "start_time": 129,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The kids dance to the chorus, and they are dressed in halloween themed colors:  purple, greens, orange, black, grey."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4530ef94-c33f-46d1-9e26-8182fa31d588"
+    },
+    {
+      "start_time": 142,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Now everything's cool, tracks of the band, and my monster mash is the hit of the land. For you, the living, this mash was made too. When you get to my door, tell them Boris sent you.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "third verse",
+          "category": "\"Now everything's cool, tracks of the band, and my monster mash is the hit of the land. For you, the living, this mash was made too. When you get to my door, tell them Boris sent you.\""
+        }
+      ],
+      "uuid": "e02a05e2-3792-466e-9915-ea36160edfa0"
+    },
+    {
+      "start_time": 157,
+      "end_time": 189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The song ends with an abrupt cut to the ABC for Kids logo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5835c79f-9824-4f27-b4e5-73ab41721439"
+    }
+  ],
   "set": "Default",
   "event_id": "b06e5dfc-fad4-4313-9776-ad17cf3edd53",
   "source_id": "4f012aa8-a45d-4fbb-b114-3b3b84e6014d"
