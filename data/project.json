@@ -9,7 +9,7 @@
     "github_org": "naponigore",
     "is_private": false,
     "title": "Monster Mash",
-    "description": "The ABC For Kids Video Hits version of Monster Mash, performed by Ross Higgins, is a lively and entertaining children's music video with a fun Halloween theme. The video features a mix of live-action and animation, creating a spooky yet playful atmosphere suitable for young audiences. With a color palette dominated by purples, greens, and oranges, the visuals emphasize classic Halloween imagery such as dancing skeletons, friendly monsters, and eerie castles. Ross Higgins delivers an animated vocal performance, bringing humor and theatricality to the song. The editing includes smooth fade-ins, jump cuts, and crossfades, keeping the pace energetic and engaging. Various characters, possibly puppets or cartoon figures, join in the fun, lip-syncing and dancing along to the beat. Sound effects like creaking doors and ghostly howls enhance the eerie yet amusing ambiance. The transitions are timed to match the rhythm, making the visuals feel in sync with the music. As the song builds towards the finale, the energy peaks with all the characters joining in for a final dance. The video concludes with a fade-out or a humorous ending, leaving viewers with a sense of fun and nostalgia.",
+    "description": "The ABC For Kids Video Hits version of Monster Mash, performed by Ross Higgins, is a lively and entertaining children's music video with a fun Halloween theme. The video features a mix of live-action and animation, creating a spooky yet playful atmosphere suitable for young audiences. With a color palette of purples, greens, and oranges, the visuals emphasize classic Halloween imagery such as dancing skeletons, friendly monsters, and eerie castles. Ross Higgins performs animated vocals,  bringing humor and theatricality to the song. Various characters, possibly puppets or cartoon figures, join in the fun, lip-syncing and dancing to the beat. Sound effects like creaking doors and ghostly howls enhance the eerie yet amusing ambiance. As the song builds towards the finale, the energy peaks with all the characters joining in for a final dance. The video concludes with a fade-out or a humorous ending, leaving viewers with a sense of fun and nostalgia.",
     "language": "en",
     "slug": "ABCforKids",
     "creator": "naponigore",
@@ -56,6 +56,8 @@
       ]
     },
     "created_at": "2025-03-03T16:21:27.829Z",
-    "updated_at": "2025-03-03T16:21:27.829Z"
-  }
+    "updated_at": "2025-03-03T16:25:18.024Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
