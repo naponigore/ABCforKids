@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-03T16:27:56.887Z",
+  "created_by": "naponigore",
+  "title": "ABC for Kids Monster Mash",
+  "slug": "abc-for-kids-monster-mash",
+  "updated_at": "2025-03-03T16:27:56.887Z",
+  "updated_by": "naponigore",
+  "parent": "bf49820f-d2ae-4e17-9fa4-e55708467b13",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "b06e5dfc-fad4-4313-9776-ad17cf3edd53"
+  }
+}
